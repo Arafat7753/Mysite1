@@ -1,0 +1,27 @@
+.bx-wrapper .bx-pager{
+	margin: 40px 0px;
+}
+.bxslider h1{
+	text-shadow: 1px 1px #000;
+}
+.bxslider .carousel-caption{
+	background: rgba(200,200,200,0.3);
+	border-radius: 7px;
+}
+.bx-wrapper{
+	border: 0px !important;
+}
+.bx-wrapper .bx-pager{
+	padding-bottom: 18px;
+}
+.bx{
+	width:100%;
+	height:100%;
+}
+.bx img{
+	width:100%;
+	height:100%;
+}
+.bx .carousel-caption{
+	color: #04f9b5;
+}
